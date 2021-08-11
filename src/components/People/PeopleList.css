@@ -1,0 +1,16 @@
+.peopleSide {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: grey;
+  margin: 10px 0px 10px -5px;
+}
+
+.peopleSide .MuiSvgIcon-root:hover {
+  background-color: #f4f9fd;
+  border-radius: 999px;
+}
+
+.peopleSide .MuiSvgIcon-root {
+  padding: 8px;
+}

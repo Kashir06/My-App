@@ -1,0 +1,29 @@
+.people {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.people:hover {
+  background-color: #f4f9fd;
+  border-radius: 10px;
+}
+
+.people > h4 {
+  bottom: 20px;
+  left: 20px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.greenPoint {
+  background-color: #00b700;
+  height: 10px;
+  width: 10px;
+  border-radius: 999px;
+  border: 3px solid #eff2f5;
+  position: absolute;
+  margin: 35px 0px 10px 30px;
+}

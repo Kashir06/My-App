@@ -1,0 +1,24 @@
+.post__optionLike {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  border-top: 1.5px solid lightgray;
+  border-bottom: 1.5px solid lightgray;
+  padding: 10px;
+}
+
+.post__optionLike .MuiSvgIcon-root {
+  font-size: 250%;
+  cursor: pointer;
+}
+
+.postLikes {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 1.5px solid lightgray;
+  border-bottom: 1.5px solid lightgray;
+  color: #000;
+}
